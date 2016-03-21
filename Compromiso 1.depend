@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1370448996 source:c:\users\eduardo\documents\compromiso 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1369778194 source:c:\users\eduardo\documents\librerias\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1369778201 c:\users\eduardo\documents\librerias\conio.h
+	<stdio.h>
+
+1370805775 source:c:\users\eduardo\documents\proyectos-isc-105\compromiso 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+
